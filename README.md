@@ -1,41 +1,41 @@
-# 👋 ¡Hola! ¡Bienvenidos a mi repositorio de GitHub! 🌟  
+# 👋 Hello! Welcome to my GitHub repository! 🌟  
 
-¡Gracias por visitar mi perfil! 😊 Aquí encontrarás proyectos que reflejan mi pasión por la programación, el análisis de datos y el desarrollo de soluciones.  
-
----
-
-## 👨‍💻 Sobre mí  
-🎓 Soy un profesional analítico con más de **19 años de experiencia**, mis últimos 5 años fueron liderando el área de **Inteligencia de Negocios** en el sector hospitalario, donde trabajé con 4 hospitales especializados. Mi trayectoria comenzó como programador y evolucionó a científico de datos, desarrollando habilidades clave como:  
-- Limpieza, análisis exploratorio y modelado de datos.🔍 
-- Análisis estadístico (univariado/multivariado).📊    
-- Visualización de datos con **Power BI** y **Excel avanzado**.✨📋   
-- Forecasting, detección de patroness, clústers y generación de insights para toma de decisiones 🚀  
-- Estudios estadísticos y análisis de factores de riesgo asociados a una enfermedad.🩺
-- Diseño de modelos de datos y construcción de Data Warehouses 🗂️
-- Automatización de procesos (ETL) 🤖
+Thank you for visiting my profile! 😊 Here, you'll find projects that reflect my passion for programming, data analysis, and solution development.  
 
 ---
 
-## 🚀 Actualmente trabajando en:  
-🌱 Desarrollo de mi portafolio con proyectos en:  
-- 🐍 **Python** desarrollo de soluciones analíticas y automatización de procesos e integrándolo con **MS. Azure**. ☁️.  
-- 📊 **R** para análisis estadístico, estudios epidemiológicos o clínicos y visualización de datos.  
-- 💻 **C#**: recordando y desarrollando aplicaciones.  
-- 🧠 **Data Science**: modelado predictivo y descubrimiento de patrones.  
-- 🗄️ **SQL**: Ejercicios con consultas básicas y avanzadas.  
-- 📋 **Excel**: desarrollo de macros y modelos financieros.  
+## 👨‍💻 About Me  
+🎓 I am an analytical professional with over **19 years of experience**, including the last 5 years leading the **Business Intelligence** department in the hospital sector, overseeing 4 specialized hospitals. My journey began as a programmer and evolved into a data scientist role, where I developed key skills such as:  
+- 🔍 Data cleaning, exploratory analysis, and modeling.  
+- 📊 Statistical analysis (univariate/multivariate).  
+- ✨📋 Data visualization with **Power BI** and advanced **Excel**.  
+- 🚀 Forecasting, pattern detection, clustering, and generating insights for decision-making.  
+- 🩺 Statistical studies and risk factor analysis related to diseases.  
+- 🗂️ Designing data models and building Data Warehouses.  
+- 🤖 Automating processes (ETL).  
 
 ---
 
-## 🤝 ¡Colaboremos!  
-💬 Estoy abierto a colaborar y aprender de nuevas ideas. Si tienes sugerencias o preguntas, no dudes en contactarme:  
+## 🚀 Currently Working On:  
+🌱 Developing my portfolio with projects in:  
+- 🐍 **Python**: analytical solutions, process automation, and integration with **MS Azure** ☁️.  
+- 📊 **R**: statistical analysis, epidemiological and clinical studies, and data visualization.  
+- 💻 **C#**: revisiting and building applications.  
+- 🧠 **Data Science**: predictive modeling and pattern discovery.  
+- 🗄️ **SQL**: exercises ranging from basic to advanced queries.  
+- 📋 **Excel**: advanced macros and financial models.  
+
+---
+
+## 🤝 Let’s Collaborate!  
+💬 I’m open to collaborations and eager to learn new ideas. Feel free to reach out if you have suggestions or questions:  
 - 📫 **Email**: gdominguezavila.es@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gino-dominguez-avila/)  
 
-⚡ **Dato curioso:** ¡Creo firmemente que el conocimiento se comparte y que mientras mas compartimos más nos enriquecemos todos! 🚀
+⚡ **Fun Fact:** I firmly believe that knowledge grows when shared, enriching everyone in the process! 🚀  
 
 ---
 
-¡Gracias por tu visita! 🎉 Espero que disfrutes mis proyectos tanto como yo disfruto creándolos.  
-🙌 Saludos,  
+Thank you for visiting! 🎉 I hope you enjoy exploring my projects as much as I enjoy creating them.  
+🙌 Best regards,  
 **Gino Domínguez** 😊  
