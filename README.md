@@ -5,14 +5,14 @@
 ---
 
 ## 👨‍💻 Sobre mí  
-🎓 Soy un profesional analítico con más de **19 años de experiencia**, mis últimos 5 años fueron liderando el área de **Inteligencia de Negocios** en el sector hospitalario, donde trabajé con 4 hospitales especializados. Mi trayectoria comenzó como programador y evolucionó a estadístico, desarrollando habilidades clave como:  
+🎓 Soy un profesional analítico con más de **19 años de experiencia**, mis últimos 5 años fueron liderando el área de **Inteligencia de Negocios** en el sector hospitalario, donde trabajé con 4 hospitales especializados. Mi trayectoria comenzó como programador y evolucionó a científico de datos, desarrollando habilidades clave como:  
 - Limpieza, análisis exploratorio y modelado de datos.🔍 
 - Análisis estadístico (univariado/multivariado).📊    
 - Visualización de datos con **Power BI** y **Excel avanzado**.✨📋   
 - Forecasting, detección de patroness, clústers y generación de insights para toma de decisiones 🚀  
 - Estudios estadísticos y análisis de factores de riesgo asociados a una enfermedad.🩺
 - Diseño de modelos de datos y construcción de Data Warehouses 🗂️
-- Automatización de procesos 🤖
+- Automatización de procesos (ETL) 🤖
 
 ---
 
